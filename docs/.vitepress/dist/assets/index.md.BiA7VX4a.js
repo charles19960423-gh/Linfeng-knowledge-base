@@ -1,0 +1,29 @@
+import{H as s}from"./chunks/HomeCard.Le4PtnGL.js";import{F as e}from"./chunks/Footer.Dkz6XMO1.js";import{o as i,c as t,ag as l,E as a,k as n}from"./chunks/framework.BGD3kWga.js";const u=JSON.parse('{"title":"林峰系统论","description":"","frontmatter":{"title":"林峰系统论"},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),r={name:"index.md"},_=Object.assign(r,{setup(o){return(c,p)=>(i(),t("div",null,[p[0]||(p[0]=l('<h1 id="林峰系统论" tabindex="-1">林峰系统论 <a class="header-anchor" href="#林峰系统论" aria-label="Permalink to &quot;林峰系统论&quot;">​</a></h1><p>个人知识体系总览</p><h2 id="欢迎" tabindex="-1">欢迎 <a class="header-anchor" href="#欢迎" aria-label="Permalink to &quot;欢迎&quot;">​</a></h2><p>欢迎来到 <strong>林峰系统论</strong> 个人知识体系，这是一个涵盖国、族、家、企和个五个维度的完整知识体系。</p><h2 id="核心模块" tabindex="-1">核心模块 <a class="header-anchor" href="#核心模块" aria-label="Permalink to &quot;核心模块&quot;">​</a></h2>',5)),a(n(s),{title:"国模块",description:"研究国家层面的系统运行规律",link:"/01-国模块/"}),a(n(s),{title:"族模块",description:"研究群体层面的系统运行规律",link:"/02-族模块/"}),a(n(s),{title:"家模块",description:"研究家庭层面的系统运行规律",link:"/03-家模块/"}),a(n(s),{title:"企模块",description:"研究企业层面的系统运行规律",link:"/04-企模块/"}),a(n(s),{title:"人模块",description:"研究个人层面的系统运行规律",link:"/05-人模块/"}),p[1]||(p[1]=l(`<h2 id="系统框架" tabindex="-1">系统框架 <a class="header-anchor" href="#系统框架" aria-label="Permalink to &quot;系统框架&quot;">​</a></h2><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>林峰系统论</span></span>
+<span class="line"><span>├── 01-国模块：国家层面的系统</span></span>
+<span class="line"><span>│   ├── 01-人：经济/政治/军事</span></span>
+<span class="line"><span>│   ├── 02-事：官/吏/民</span></span>
+<span class="line"><span>│   └── 03-物：自然/人文/科学</span></span>
+<span class="line"><span>├── 02-族模块：群体层面的系统</span></span>
+<span class="line"><span>│   ├── 01-士：数据/规划/调度</span></span>
+<span class="line"><span>│   ├── 02-商：统筹/管理/执行</span></span>
+<span class="line"><span>│   └── 03-工农：总结/实践/学习</span></span>
+<span class="line"><span>├── 03-家模块：家庭层面的系统</span></span>
+<span class="line"><span>│   ├── 01-缘：血缘/姓缘/亲缘</span></span>
+<span class="line"><span>│   ├── 02-生：生活/生命/生存</span></span>
+<span class="line"><span>│   └── 03-欲：心欲/内欲/外欲</span></span>
+<span class="line"><span>├── 04-企模块：企业层面的系统</span></span>
+<span class="line"><span>│   ├── 01-系统核心</span></span>
+<span class="line"><span>│   ├── 02-执行落地</span></span>
+<span class="line"><span>│   ├── 03-数据反馈</span></span>
+<span class="line"><span>│   ├── 04-支撑保障</span></span>
+<span class="line"><span>│   ├── 05-输出迭代</span></span>
+<span class="line"><span>│   ├── 06-日程管控</span></span>
+<span class="line"><span>│   └── 99-系统归档</span></span>
+<span class="line"><span>└── 05-人模块：个人层面的系统</span></span>
+<span class="line"><span>    ├── 01-认知</span></span>
+<span class="line"><span>    ├── 02-情感</span></span>
+<span class="line"><span>    ├── 03-行为</span></span>
+<span class="line"><span>    ├── 04-关系</span></span>
+<span class="line"><span>    ├── 05-成长</span></span>
+<span class="line"><span>    ├── 06-价值</span></span>
+<span class="line"><span>    └── 07-潜能</span></span></code></pre></div><h2 id="关于本系统" tabindex="-1">关于本系统 <a class="header-anchor" href="#关于本系统" aria-label="Permalink to &quot;关于本系统&quot;">​</a></h2><p><strong>林峰系统论</strong> 是一个综合性的知识体系，旨在通过系统化的方法研究各个层面的运行规律。本系统论涵盖了从宏观到微观的各个维度，为个人的学习、工作和生活提供理论指导。</p><h3 id="核心价值" tabindex="-1">核心价值 <a class="header-anchor" href="#核心价值" aria-label="Permalink to &quot;核心价值&quot;">​</a></h3><ul><li><strong>系统性</strong>：采用系统思维方法，全面分析各个层面的运行规律</li><li><strong>实用性</strong>：注重理论与实践相结合，提供可操作的方法和工具</li><li><strong>开放性</strong>：不断吸收新的知识和方法，持续迭代和完善</li><li><strong>个性化</strong>：根据个人需求和兴趣，灵活应用和扩展</li></ul><h3 id="使用指南" tabindex="-1">使用指南 <a class="header-anchor" href="#使用指南" aria-label="Permalink to &quot;使用指南&quot;">​</a></h3><ol><li><strong>浏览模块</strong>：通过导航栏进入各个模块，了解系统的整体结构</li><li><strong>深入学习</strong>：点击具体的子模块，深入学习相关知识</li><li><strong>实践应用</strong>：将所学知识应用到实际生活和工作中</li><li><strong>反馈建议</strong>：通过评论系统分享您的想法和建议</li></ol><h2 id="联系我们" tabindex="-1">联系我们 <a class="header-anchor" href="#联系我们" aria-label="Permalink to &quot;联系我们&quot;">​</a></h2><p>如果您对本系统有任何疑问或建议，欢迎通过以下方式联系我们：</p><ul><li><strong>邮箱</strong>：840096141@qq.com</li><li><strong>GitHub</strong>：<a href="https://github.com/linfeng-system" target="_blank" rel="noreferrer">https://github.com/linfeng-system</a></li></ul><hr>`,12)),a(n(e))]))}});export{u as __pageData,_ as default};
