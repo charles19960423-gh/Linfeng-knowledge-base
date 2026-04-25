@@ -6,7 +6,6 @@ export default defineConfig({
   outDir: '.vitepress/dist',
   base: '/',
   themeConfig: {
-    logo: '/logo.png',
     nav: [
       { text: '首页', link: '/' },
       { text: '国模块', link: '/01-国模块/' },

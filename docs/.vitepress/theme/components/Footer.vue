@@ -18,7 +18,7 @@
       </div>
       <div class="footer-section">
         <h4>联系我们</h4>
-        <p>邮箱: contact@linfeng-system.com</p>
+        <p>邮箱: 840096141@qq.com</p>
         <p>GitHub: <a href="https://github.com/linfeng-system" target="_blank">linfeng-system</a></p>
       </div>
     </div>
