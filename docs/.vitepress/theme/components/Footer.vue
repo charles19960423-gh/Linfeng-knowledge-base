@@ -8,12 +8,12 @@
       <div class="footer-section">
         <h4>快速链接</h4>
         <ul>
-          <li><a href="/">首页</a></li>
-          <li><a href="/01-国模块/">国模块</a></li>
-          <li><a href="/02-族模块/">族模块</a></li>
-          <li><a href="/03-家模块/">家模块</a></li>
-          <li><a href="/04-企模块/">企模块</a></li>
-          <li><a href="/05-人模块/">人模块</a></li>
+          <li><a href="/Linfeng-knowledge-base/">首页</a></li>
+          <li><a href="/Linfeng-knowledge-base/01-国模块/">国模块</a></li>
+          <li><a href="/Linfeng-knowledge-base/02-族模块/">族模块</a></li>
+          <li><a href="/Linfeng-knowledge-base/03-家模块/">家模块</a></li>
+          <li><a href="/Linfeng-knowledge-base/04-企模块/">企模块</a></li>
+          <li><a href="/Linfeng-knowledge-base/05-人模块/">人模块</a></li>
         </ul>
       </div>
       <div class="footer-section">

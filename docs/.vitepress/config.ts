@@ -4,7 +4,7 @@ export default defineConfig({
   title: '林峰系统论',
   description: '个人知识体系',
   outDir: '.vitepress/dist',
-  base: '/',
+  base: '/Linfeng-knowledge-base/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },

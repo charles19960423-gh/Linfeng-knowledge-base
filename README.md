@@ -101,7 +101,7 @@ npm run build
 
 ## 联系我们
 
-- **邮箱**：contact@linfeng-system.com
+- **邮箱**：840096141@qq.com
 - **GitHub**：https://github.com/linfeng-system
 
 ---
