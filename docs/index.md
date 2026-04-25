@@ -78,7 +78,7 @@ title: 林峰系统论
 
 如果您对本系统有任何疑问或建议，欢迎通过以下方式联系我们：
 
-- **邮箱**：contact@linfeng-system.com
+- **邮箱**：840096141@qq.com
 - **GitHub**：https://github.com/linfeng-system
 
 ---
