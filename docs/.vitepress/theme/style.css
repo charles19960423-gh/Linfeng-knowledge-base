@@ -1,0 +1,99 @@
+/* 全局样式 */
+:root {
+  --vp-c-brand: #646cff;
+  --vp-c-brand-light: #747bff;
+  --vp-c-brand-dark: #535bf2;
+  --vp-c-text-1: #303030;
+  --vp-c-text-2: #606060;
+  --vp-c-text-3: #909090;
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-secondary: #f8f9fa;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .VPNavigation {
+    padding: 0 16px;
+  }
+  
+  .VPLayout {
+    padding: 0 16px;
+  }
+  
+  .VPSidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  
+  .VPContent {
+    margin-left: 0;
+  }
+}
+
+/* 主题定制 */
+.VPHome {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.VPHomeHero {
+  padding: 6rem 0;
+}
+
+.VPHomeHero h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.VPHomeHero p {
+  font-size: 1.25rem;
+  color: var(--vp-c-text-2);
+  margin-bottom: 2rem;
+}
+
+.VPButton {
+  border-radius: 8px;
+  padding: 0.75rem 1.5rem;
+  font-weight: 600;
+}
+
+/* 自定义组件样式 */
+.custom-card {
+  background: var(--vp-c-bg);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.custom-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* 代码块样式 */
+.VPContent pre {
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-border);
+}
+
+/* 表格样式 */
+.VPContent table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+.VPContent table th,
+.VPContent table td {
+  padding: 0.75rem;
+  border: 1px solid var(--vp-c-border);
+  text-align: left;
+}
+
+.VPContent table th {
+  background-color: var(--vp-c-bg-secondary);
+  font-weight: 600;
+}
